@@ -1,0 +1,5 @@
+status, pop_size, C19_hospital
+Vax_Prior_C19, 968167, 273
+Vax_No_Prior, 15484235, 10737 
+UnVax_Prior_C19,1370782, 378 
+UnVax_No_Prior, 3911146, 44789
