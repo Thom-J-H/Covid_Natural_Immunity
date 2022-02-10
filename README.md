@@ -8,3 +8,7 @@ A more detailed look at the Natural Immunity &#8212; Unvaccinated Cohort(#3) ver
 
 
 ![ni_five](https://user-images.githubusercontent.com/12042357/153334221-f38be2e6-1e5e-4023-ae0f-09c81004affe.png)
+
+<hr />
+
+Data Dashboard @ RPubs: https://rpubs.com/Thom_JH/cdc_natural_immunity
