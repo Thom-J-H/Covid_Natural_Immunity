@@ -14,8 +14,10 @@ A more detailed look at the Natural Immunity &#8212; Unvaccinated Cohort(#3) ver
 Data Dashboard @ RPubs: https://rpubs.com/Thom_JH/cdc_natural_immunity
 
 <hr />
-If you find these results useful, please consider <a href = "http://buymeacoffee.com/datahumanist">buying me a coffee</a>!
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="datahumanist" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 
